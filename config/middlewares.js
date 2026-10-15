@@ -27,7 +27,7 @@ module.exports = [
             "'self'",
             "'unsafe-inline'",
           ],
-          'upgrade-insecure-requests': null,
+      
         },
       },
     },
